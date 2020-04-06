@@ -1,0 +1,246 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "dobleh",
+      "password": "maungapain",
+      "role": "admin",
+      "usertype": "admin"
+    },
+    {
+      "id": 2,
+      "username": "budi",
+      "password": "rahasia",
+      "role": "user",
+      "usertype": "free"
+    },
+    {
+      "username": "handy",
+      "password": "123",
+      "role": "user",
+      "usertype": "premium",
+      "id": 3
+    },
+    {
+      "username": "apa",
+      "password": "123",
+      "role": "user",
+      "usertype": "free",
+      "id": 4
+    }
+  ],
+  "videos": [
+    {
+      "name": "FIFA 20 Pro Clubs...BEST CAM Build (Traits / Tips)",
+      "video": "https://www.youtube.com/embed/LjnHkFV3Q7w",
+      "videotype": "free",
+      "kategoriId": 3,
+      "subkategoriId": 3,
+      "view": "5.3K",
+      "uploadtime": "1 week",
+      "id": 1
+    },
+    {
+      "name": "Waspada Virus Corona",
+      "video": "https://www.youtube.com/embed/hyfl1hs3wMc",
+      "videotype": "free",
+      "kategoriId": 1,
+      "subkategoriId": 2,
+      "view": "1M",
+      "uploadtime": "2 days",
+      "id": 2
+    },
+    {
+      "name": "Final Fantasy VII REMAKE Final Trailer",
+      "video": "https://www.youtube.com/embed/72Y7DplcyR8",
+      "videotype": "premium",
+      "kategoriId": 2,
+      "subkategoriId": 3,
+      "view": "4.5M",
+      "uploadtime": "1 minute",
+      "id": 3
+    },
+    {
+      "name": "Bakteri vs. Virus: Mana yang Lebih Mematikan?",
+      "video": "https://www.youtube.com/embed/XhBhzDWtjSg",
+      "videotype": "free",
+      "kategoriId": 1,
+      "subkategoriId": 2,
+      "view": "96K",
+      "uploadtime": "52 minutes",
+      "id": 4
+    },
+    {
+      "name": "Endemi, Epidemi, dan Pandemi: Apa Bedanya?",
+      "video": "https://www.youtube.com/embed/rExZ7KHtAV8",
+      "videotype": "free",
+      "kategoriId": 1,
+      "subkategoriId": 2,
+      "view": "451K",
+      "uploadtime": "6 days",
+      "id": 5
+    },
+    {
+      "name": "The Last of Us Part 2 Delayed Indefinitely - IGN Now",
+      "video": "https://www.youtube.com/embed/AiGiqYtNbQw",
+      "videotype": "premium",
+      "kategoriId": 2,
+      "subkategoriId": 1,
+      "view": "123K",
+      "uploadtime": "1 week",
+      "id": 6
+    },
+    {
+      "name": "IVPL Elite Division 1 FIFA 20 11vs11: Akherat FC vs Singkong FC (Week 22)",
+      "video": "https://www.youtube.com/embed/wqT1fKgJ4FY",
+      "videotype": "premium",
+      "kategoriId": 2,
+      "subkategoriId": 1,
+      "view": "23M",
+      "uploadtime": "2 days",
+      "id": 7
+    },
+    {
+      "name": "WASITNYA BUTA! WKWKWK! - PES 2020 VS BANG TARA!",
+      "video": "https://www.youtube.com/embed/Do1wlWNTRdM",
+      "videotype": "free",
+      "kategoriId": 2,
+      "subkategoriId": 1,
+      "view": "0",
+      "uploadtime": "1 minute",
+      "id": 8
+    },
+    {
+      "name": "Update Corona 4 April 2020: 2.092 Positif, 150 Sembuh, dan 191 Meninggal Dunia",
+      "video": "https://www.youtube.com/embed/tj-mRs1JM6Y",
+      "videotype": "free",
+      "kategoriId": 1,
+      "subkategoriId": 2,
+      "view": "2.3K",
+      "uploadtime": "23 minutes",
+      "id": 9
+    },
+    {
+      "name": "Animal Crossing: New Horizons – Your island, your life! (Nintendo Switch)",
+      "video": "https://www.youtube.com/embed/5LAKjL3p6Gw",
+      "videotype": "free",
+      "kategoriId": 2,
+      "subkategoriId": 3,
+      "view": "145M",
+      "uploadtime": "2 weeks",
+      "id": 10
+    },
+    {
+      "name": "Resident Evil 3 Remake Collector's Edition Unboxing (SOLD OUT!)",
+      "video": "https://www.youtube.com/embed/nRx6Bwnp4t4",
+      "videotype": "free",
+      "kategoriId": 2,
+      "subkategoriId": 1,
+      "view": "1.7M",
+      "uploadtime": "3 days",
+      "id": 11
+    },
+    {
+      "name": "My Animal Crossing Island Tour (120+ hours)",
+      "video": "https://www.youtube.com/embed/us6_pEAwjjg",
+      "videotype": "free",
+      "kategoriId": 2,
+      "subkategoriId": 1,
+      "view": "3M",
+      "uploadtime": " 2 days",
+      "id": 12
+    },
+    {
+      "name": "IVPL Thunder Division 2 ~ Yellow Submarine vs So Scary FC ~ Week 21",
+      "video": "https://www.youtube.com/embed/66-s8hRcCZU",
+      "videotype": "free",
+      "kategoriId": 2,
+      "subkategoriId": 1,
+      "view": "123K",
+      "uploadtime": "1 week",
+      "id": 13
+    },
+    {
+      "name": "進擊的巨人Season 3 OP Red Swan full",
+      "video": "https://www.youtube.com/embed/nn75wQyfdF0",
+      "videotype": "free",
+      "kategoriId": 8,
+      "subkategoriId": 3,
+      "view": "23M",
+      "uploadtime": "8 months",
+      "id": 14
+    },
+    {
+      "name": "Amerika Serikat Kini Jadi Episentrum Corona",
+      "video": "https://www.youtube.com/embed/ZphLn5AJH2Y",
+      "videotype": "free",
+      "kategoriId": 1,
+      "subkategoriId": 3,
+      "view": "2.5M",
+      "uploadtime": "5 days",
+      "id": 15
+    },
+    {
+      "name": "2018 FIFA World Cup | The Official Film",
+      "video": "https://www.youtube.com/embed/MiAcU2DvbXM",
+      "videotype": "premium",
+      "kategoriId": 9,
+      "subkategoriId": 3,
+      "view": "1.7M",
+      "uploadtime": "1 day",
+      "id": 16
+    }
+  ],
+  "kategoris": [
+    {
+      "id": 1,
+      "nama": "News"
+    },
+    {
+      "id": 2,
+      "nama": "Gaming"
+    },
+    {
+      "id": 3,
+      "nama": "Tutorial"
+    },
+    {
+      "id": 4,
+      "nama": "Trailer"
+    },
+    {
+      "id": 5,
+      "nama": "Movie"
+    },
+    {
+      "id": 6,
+      "nama": "Cooking"
+    },
+    {
+      "id": 7,
+      "nama": "Documentary"
+    },
+    {
+      "id": 8,
+      "nama": "Music"
+    },
+    {
+      "id": 9,
+      "nama": "Sports"
+    }
+  ],
+  "subkategoris": [
+    {
+      "id": 1,
+      "nama": "Recommended"
+    },
+    {
+      "id": 2,
+      "nama": "COVID-19 news"
+    },
+    {
+      "id": 3,
+      "nama": "Trending"
+    }
+  ]
+}

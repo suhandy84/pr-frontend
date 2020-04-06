@@ -1,0 +1,8 @@
+.bg-nav{
+    background: linear-gradient(to top, #4481eb 0%, #04befe 100%) !important
+  }
+
+.batas {
+    border-bottom: 4px rgba(124, 55, 23, 0.171) solid;
+    width: 100%;
+}
